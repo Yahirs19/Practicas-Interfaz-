@@ -28,9 +28,9 @@ Título del trabajo:
 Estudiante:
 Juan Flores Fernandez
 Rosy Salazar
-    Eddie Reynoso
-    Abraham Aganza
-    Yahir Soto
+Eddie Reynoso
+Abraham Aganza
+Yahir Soto
 
 
 	</p>
