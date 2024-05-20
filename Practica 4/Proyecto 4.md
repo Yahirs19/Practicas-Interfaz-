@@ -22,7 +22,4 @@ Los participantes desarrollarán habilidades en programación en C/C++ para sist
 
 ## Resultados Esperados
 Al finalizar esta práctica, los estudiantes habrán adquirido experiencia práctica en el desarrollo de soluciones IoT que involucran la comunicación inalámbrica Bluetooth, ampliando sus conocimientos en programación de sistemas embebidos y desarrollo de aplicaciones móviles.
-![WhatsApp Image 2024-05-09 at 3 49 38 PM](https://github.com/Yahirs19/Practicas-Interfaz-/assets/105743054/b4b64721-15bb-4022-8b6b-48dea6ff375d)
-
-![WhatsApp Image 2024-05-09 at 3 49 16 PM](https://github.com/Yahirs19/Practicas-Interfaz-/assets/105743054/23c6a976-1fa2-4545-a548-b331d3a6d851)
 
