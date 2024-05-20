@@ -18,12 +18,18 @@ Docente:
 M.C. Rene Solis Reyes 
 
 Unidad:
-1
+4
 
 Título del trabajo:
-Introducción a ARM32 y el entorno de desarrollo
+Proyecto Unidad Final
 
-Estudiante:
+## Equipo de Trabajo
+- *Yahir Soto*
+- *Juan Flores*
+- *Rosy Salazar*
+- *Eddie Reynoso*
+- *Abraham Aganza*
+
 
 
 	</p>
