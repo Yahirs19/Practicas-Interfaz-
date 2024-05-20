@@ -103,3 +103,5 @@
     </div>
 </body>
 </html>
+![441453213_334048526131874_676088163910107280_n](https://github.com/Yahirs19/Practicas-Interfaz-/assets/159850737/5dafde40-499a-451a-b255-b49c2ee123e1)
+![440372315_314833951492270_1441411056667155792_n](https://github.com/Yahirs19/Practicas-Interfaz-/assets/159850737/ddf0e26a-6529-4bb4-840d-edc01d88c273)
