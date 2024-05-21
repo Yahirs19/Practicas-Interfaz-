@@ -20,3 +20,10 @@ La aplicación maneja errores comunes relacionados con la comunicación con Rasp
 - **Práctico:** Desarrollo de habilidades en C# y comunicación con hardware externo
 - **Colaborativo:** Fomento del trabajo en equipo y gestión de proyectos
 
+- 
+![Imagen1](https://github.com/Yahirs19/Practicas-Interfaz-/assets/159850737/e374c3b9-8bcb-47b2-868a-4ab378119870)
+
+![Imagen2-2](https://github.com/Yahirs19/Practicas-Interfaz-/assets/159850737/d021eb80-a5c4-4faf-9c94-cf7c4d98bd2c)
+
+
+
