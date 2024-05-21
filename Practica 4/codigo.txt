@@ -2,6 +2,12 @@
 #include <BTstackLib.h>
 #include <SPI.h>
 
+autors:
+- *Yahir Soto*
+- *Juan Flores*
+- *Rosy Salazar*
+- *Eddie Reynoso*
+- *Abraham Aganza*
 
 
 
