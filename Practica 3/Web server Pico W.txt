@@ -1,5 +1,13 @@
 #include <WiFi.h>
 
+autors:
+- *Yahir Soto*
+- *Juan Flores*
+- *Rosy Salazar*
+- *Eddie Reynoso*
+- *Abraham Aganza*
+
+
 #ifndef STASSID
 #define STASSID "TecNM-ITT-Docentes"
 #define STAPSK "Person@L2024!"
