@@ -1,6 +1,12 @@
 /*
   Programa: Control de Raspberry Pi Pico W
-  Autor: Reynoso Rosales Eduardo Guadalupe 21212036
+  Autor: 
+  - *Yahir Soto*
+- *Juan Flores*
+- *Rosy Salazar*
+- *Eddie Reynoso*
+- *Abraham Aganza*
+
   Fecha: 17/05/2024
 
   Descripción:
