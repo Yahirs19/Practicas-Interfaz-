@@ -48,3 +48,6 @@
 
 ## Resultados Esperados
 Al finalizar esta práctica, los estudiantes habrán adquirido experiencia en el desarrollo de aplicaciones de IoT utilizando el Arduino Tiny Machine Learning Kit, demostrando habilidades técnicas y colaborativas en el proceso de captura de una foto con C# o Python.
+![441279308_1923752104738339_8336718135836388223_n](https://github.com/Yahirs19/Practicas-Interfaz-/assets/159850737/6e28f98f-7f89-4bb5-b04e-af5ab4426fc4)
+
+
