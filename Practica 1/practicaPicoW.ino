@@ -1,6 +1,12 @@
 /*
   Programa: Imprimir mensajes mediante el uso de Winforms C# y Pico W
-  Autor: Reynoso Rosales Eduardo Guadalupe
+  Autor: 
+  - *Yahir Soto*
+- *Juan Flores*
+- *Rosy Salazar*
+- *Eddie Reynoso*
+- *Abraham Aganza*
+
   Fecha: 11/05/2024
 
   Descripción:
