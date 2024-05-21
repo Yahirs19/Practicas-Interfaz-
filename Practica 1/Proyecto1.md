@@ -27,3 +27,7 @@ La aplicación maneja errores comunes relacionados con la conexión al puerto se
 - **Práctico:** Desarrollo de habilidades en C# y manejo de puertos seriales
 - **Colaborativo:** Fomento del trabajo en equipo y gestión de proyectos
 - **La interfaz debe ser intuitiva y fácil de usar, garantizando que todos los componentes sean accesibles y claramente identificables para el usuario.**
+![Imagen1](https://github.com/Yahirs19/Practicas-Interfaz-/assets/159850737/491a0d5e-62c7-49d9-97ab-c7d21c31c3f8)
+
+![Imagen2](https://github.com/Yahirs19/Practicas-Interfaz-/assets/159850737/6e5ccdc3-0085-4dfe-b0b9-4d0595000182)
+
