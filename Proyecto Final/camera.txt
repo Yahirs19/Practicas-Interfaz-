@@ -1,6 +1,13 @@
 /*
   OV767X - Camera Capture Raw Bytes
 
+- *Yahir Soto*
+- *Juan Flores*
+- *Rosy Salazar*
+- *Eddie Reynoso*
+- *Abraham Aganza*
+
+
   This sketch reads a frame from the OmniVision OV7670 camera
   and writes the bytes to the Serial port. Use the Procesing
   sketch in the extras folder to visualize the camera output.
