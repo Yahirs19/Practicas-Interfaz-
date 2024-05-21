@@ -1,6 +1,12 @@
 /*
   Programa: Desplegando mensaje en OLED Display con Pico W
-  Autores: Reynoso Rosales Eduardo Guadalupe y Soto Sanchez Yahir
+  Autores:
+  - *Yahir Soto*
+- *Juan Flores*
+- *Rosy Salazar*
+- *Eddie Reynoso*
+- *Abraham Aganza*
+
   Fecha: 06/05/2024
 
   Descripción:
